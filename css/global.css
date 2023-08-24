@@ -1,0 +1,84 @@
+/* Texr */
+
+.text-center {
+    text-align: center;
+}
+
+.heading {
+    font-size: 1.25rem;
+}
+
+.heading-medium {
+    font-size: 1.5rem;
+}
+.heading-big {
+    font-size: 1.75rem;
+}
+
+/* Colors */ 
+.bg-dark-blue{
+    background: rgb(48, 51, 129);
+}
+
+.bg-light-blue{
+    background: rgb(45, 177, 213);
+
+}
+
+/* Buttons*/
+.btn {
+    margin-top: 1.5rem ;
+    padding: 0.2rem 0.2rem;
+    border-radius: 8px;
+    letter-spacing: 0.6px;
+}
+
+.btn-primary {
+    background-color: #336ea2;
+}
+.btn-primary:hover {
+    color:  rgb(48, 51, 129);
+    background-color: white;
+    border : 1px solid black
+}
+.btn-block {
+    width: 100%; 
+    text-align: center;
+}
+/*container*/
+
+
+#home img {
+    max-width: 100%;
+    height : auto;
+    border-radius: 100%;
+}
+
+.img-wh {
+    height: 8rem;
+    width: 11.3rem;
+    border-radius: 12px;
+}
+
+#card {
+    border: 2px solid black;
+    padding: 0.8rem 0.8rem;
+    margin: 0.8rem 0.8rem;
+}
+
+.personal {
+    width: 99%;
+    height: auto;
+}
+.personalInfo {
+    margin: 1.4rem;
+    padding: 0.8rem;
+}
+
+/* forms*/
+.form-group{
+    padding: 0.3rem 0;
+}
+.form-group label{
+    display: block;
+}

@@ -1,0 +1,8 @@
+h1 {
+    color: rebeccapurple;
+}
+
+.courses{
+    display: flex;
+    flex-direction: column;
+}
